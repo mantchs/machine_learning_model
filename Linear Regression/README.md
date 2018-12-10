@@ -6,7 +6,7 @@
   - [1.4如何使用模型](#14如何使用模型)
   - [1.5模型计算](#15模型计算)
   - [1.6过拟合与欠拟合](#16过拟合与欠拟合underfitting-and-overfitting)
-  - [1.7Python实现代码](#17python实现代码)
+  - [1.7Python实现代码](https://github.com/mantchs/machine_learning_model/tree/master/Linear%20Regression/demo)
 
 ## 1.线性回归(Linear Regression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[案例](https://github.com/mantchs/machine_learning_model/tree/master/Linear%20Regression/demo)
 
@@ -109,9 +109,7 @@
 
 看到这里是不是觉得很麻烦，我之前说过现在是解释线性回归模型的原理与优化，但是到了真正使用上这些方法是一句话的事，因为这些计算库别人已经准备好了，感谢开源吧！
 
-### 1.7Python实现代码
-
-[GitHub地址(代码加数据](https://github.com/mantchs/machine_learning_model/tree/master/Linear%20Regression/demo)
+### [1.7Python实现代码](https://github.com/mantchs/machine_learning_model/tree/master/Linear%20Regression/demo)
 
 </br>
 </br>

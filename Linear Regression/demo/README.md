@@ -1,3 +1,13 @@
+## 目录
+- [1.题目](#1题目)
+- [2.步骤](#2步骤)
+- [3.模型选择](#3模型选择)
+- [4.环境配置](#4环境配置)
+- [5.csv数据处理](#5csv数据处理)
+- [6.数据处理](#6数据处理)
+- [7.模型训练](#7模型训练)
+- [8.完整代码](https://github.com/mantchs/machine_learning_model/blob/master/Linear%20Regression/demo/housing_price.py)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这篇介绍的是我在做房价预测模型时的python代码，房价预测在机器学习入门中已经是个经典的题目了，但我发现目前网上还没有能够很好地做一个demo出来，使得入门者不能很快的找到“入口”在哪，所以在此介绍我是如何做的预测房价模型的题目，仅供参考。
 ## 1.题目：
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从给定的房屋基本信息以及房屋销售信息等，建立一个回归模型预测房屋的销售价格。

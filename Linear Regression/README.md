@@ -70,6 +70,6 @@
 
 ### 1.6Python实现代码
 
-[GitHub地址(代码加数据)]()
+[GitHub地址(代码加数据)](https://github.com/mantchs/machine_learning_model/tree/master/Linear%20Regression/demo)
 
 

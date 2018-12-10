@@ -56,7 +56,7 @@
 
 - **损失函数**：是用来估量你模型的预测值 f(x)与真实值 YY 的不一致程度，损失函数越小，模型的效果就越好。
 
-![image-20181209191632406](D:/FangCloudV2/%E4%B8%AA%E4%BA%BA%E6%96%87%E4%BB%B6/july/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B9%9D%E6%9C%9F/%E6%88%91%E6%9D%A5%E8%AF%B4/Users/match/Library/Application%20Support/typora-user-images/image-20181209191632406.png)
+![image-20181209191632406](http://www.wailian.work/images/2018/12/10/image.png)
 
 不要看公式很复杂，其实就是一句话，(预测值-真实值)的平法和的平均值，换句话说就是点到直线距离和最小。用一幅图来表示：
 

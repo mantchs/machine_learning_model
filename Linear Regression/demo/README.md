@@ -102,3 +102,12 @@ plot.show()
 - 到这里可以看到机器学习也不是不能够学会，只要深入研究和总结，就能够找到学习的方法，重要的是总结，最后就是调用一些机器学习的方法库就行了，当然这只是入门级的，我觉得入门级的写到这已经足够了，很多人都能够看得懂，代码量不多。但要理解线性回归的概念性东西还是要多看资料。
 
 ## [8.完整代码](https://github.com/mantchs/machine_learning_model/blob/master/Linear%20Regression/demo/housing_price.py)
+
+</br>
+</br>
+</br>
+</br>
+
+![image.png](https://upload-images.jianshu.io/upload_images/13876065-08b587647d14267c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+欢迎添加微信交流！请备注“机器学习”。

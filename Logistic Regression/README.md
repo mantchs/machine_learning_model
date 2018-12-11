@@ -1,6 +1,13 @@
 ## 目录
+- [1.逻辑回归](#1逻辑回归logistic-regression案例)
+  - [1.1逻辑回归与线性回归的关系](#11逻辑回归与线性回归的关系)
+  - [1.2损失函数](#12损失函数)
+  - [1.3多分类问题](#13多分类问题one-vs-rest)
+  - [1.4逻辑回归的一些经验](#14逻辑回归lr的一些经验)
+  - [1.5LR的应用](#15lr的应用)
+  - [1.6Python代码实现](https://github.com/mantchs/machine_learning_model/blob/master/Logistic%20Regression/demo/CreditScoring.ipynb)
 
-## 1.逻辑回归(Logistic Regression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[案例](https://github.com/mantchs/machine_learning_model/tree/master/Linear%20Regression/demo)
+## 1.逻辑回归(Logistic Regression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[案例](https://github.com/mantchs/machine_learning_model/blob/master/Logistic%20Regression/demo/CreditScoring.ipynb)
 
 ### 1.1逻辑回归与线性回归的关系
 
@@ -60,7 +67,7 @@
 - 某电商的购物搭配推荐用了大量LR。
 - 某现在一天广告赚1000w+的新闻app排序基线是LR。
 
-### [1.6Python代码实现]()
+### [1.6Python代码实现](https://github.com/mantchs/machine_learning_model/blob/master/Logistic%20Regression/demo/CreditScoring.ipynb)
 
 </br>
 </br>

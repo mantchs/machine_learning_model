@@ -84,13 +84,13 @@ Pk表示的是：当前样本集合D中第k类样本所占的比例为Pk。
 
 如果不理解的，可以查看我一下分享的示例，结合我说的，包你看懂：
 
-1.http://www.wailian.work/images/2018/12/11/image39e7b.png
+1.https://www.wailian.work/images/2018/12/11/image39e7b.png
 
-2.http://www.wailian.work/images/2018/12/11/image61cdc.png
+2.https://www.wailian.work/images/2018/12/11/image61cdc.png
 
-3.http://www.wailian.work/images/2018/12/11/image9e194.png
+3.https://www.wailian.work/images/2018/12/11/image9e194.png
 
-4.http://www.wailian.work/images/2018/12/11/image09288.png
+4.https://www.wailian.work/images/2018/12/11/image09288.png
 
 不过，信息增益有一个问题：对可取值数目较多的属性有所偏好，例如：考虑将“编号”作为一个属性。这就引出了另一个 算法C4.5。
 

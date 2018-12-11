@@ -5,6 +5,8 @@
 
 ## [1.线性回归](https://github.com/mantchs/machine_learning_model/tree/master/Linear%20Regression)
 ### &nbsp;&nbsp;&nbsp;&nbsp;[1.1房价预测案例](https://github.com/mantchs/machine_learning_model/tree/master/Linear%20Regression/demo)
+## [2.逻辑回归](https://github.com/mantchs/machine_learning_model/tree/master/Logistic%20Regression)
+### &nbsp;&nbsp;&nbsp;&nbsp;[2.1金融信用分类案例](https://github.com/mantchs/machine_learning_model/blob/master/Logistic%20Regression/demo/CreditScoring.ipynb)
 
 
 

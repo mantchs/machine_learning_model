@@ -1,3 +1,16 @@
+## 目录
+- [1.决策树](#1决策树)
+  - [1.1从LR到决策树](#11从lr到决策树)
+  - [1.2“树”的成长过程](#12树的成长过程)
+  - [1.3“树”怎么长](#13树怎么长)
+    - [1.3.1ID3算法](#131id3算法)
+    - [1.3.2C4.5](#132c45)
+    - [1.3.3CART算法](#133cart算法)
+    - [1.3.4三种不同的决策树](#134三种不同的决策树)
+  - [1.4随机森林](#14随机森林random-forest)
+  - [决策树demo](https://github.com/mantchs/machine_learning_model/blob/master/Decision%20Tree/DecisionTree.ipynb)
+  - [随机森林demo](https://github.com/mantchs/machine_learning_model/blob/master/Decision%20Tree/RandomForestRegression.ipynb)
+
 ## 1.决策树
 
 ### 1.1从LR到决策树
@@ -166,9 +179,9 @@ RandomForest(随机森林)是一种基于树模型的Bagging的优化版本，�
 
 ### 1.5Python代码
 
-[决策树模型demo]()
+[决策树模型demo](https://github.com/mantchs/machine_learning_model/blob/master/Decision%20Tree/DecisionTree.ipynb)
 
-[随机森林模型demo]()
+[随机森林模型demo](https://github.com/mantchs/machine_learning_model/blob/master/Decision%20Tree/RandomForestRegression.ipynb)
 
 .
 

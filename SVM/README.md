@@ -1,4 +1,12 @@
-## 1.SVM讲解&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[案例](https://github.com/mantchs/machine_learning_model/tree/master/Linear%20Regression/demo)
+## 目录
+- [1.SVM讲解](#1svm讲解案例)
+  - [1.1支持向量机(SVM)的由来](#11支持向量机svm的由来)
+  - [1.2如何找到超平面](#12如何找到超平面)
+  - [1.3最大间隔分类器](#13最大间隔分类器)
+  - [1.4后续问题](#14后续问题)
+  - [1.5新闻分类实例](https://github.com/mantchs/machine_learning_model/tree/master/SVM/cnews_demo)
+
+## 1.SVM讲解&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[案例](https://github.com/mantchs/machine_learning_model/tree/master/SVM/cnews_demo)
 
 SVM是一个很复杂的算法，不是一篇博文就能够讲完的，所以此篇的定位是初学者能够接受的程度，并且讲的都是SVM的一种思想，通过此篇能够使读着会使用SVM就行，具体SVM的推导过程有一篇博文是讲得非常细的，具体链接我放到最后面，供大家参考。
 
@@ -68,7 +76,7 @@ SVM要深入的话有很多内容需要讲到，比如：线性不可分问题�
 
 支持向量机通俗导论：https://blog.csdn.net/v_JULY_v/article/details/7624837#commentBox
 
-### [1.5新闻分类实例]()
+### [1.5新闻分类实例](https://github.com/mantchs/machine_learning_model/tree/master/SVM/cnews_demo)
 
 .
 

@@ -10,6 +10,8 @@
 ## [3.决策树](https://github.com/mantchs/machine_learning_model/tree/master/Decision%20Tree)
 ### &nbsp;&nbsp;&nbsp;&nbsp;[3.1决策树案例](https://github.com/mantchs/machine_learning_model/blob/master/Decision%20Tree/DecisionTree.ipynb)
 ### &nbsp;&nbsp;&nbsp;&nbsp;[3.2随机森林案例](https://github.com/mantchs/machine_learning_model/blob/master/Decision%20Tree/RandomForestRegression.ipynb)
+## [4.SVM](https://github.com/mantchs/machine_learning_model/tree/master/SVM)
+### &nbsp;&nbsp;&nbsp;&nbsp;[4.1新闻分类案例](https://github.com/mantchs/machine_learning_model/tree/master/SVM/cnews_demo)
 
 
 

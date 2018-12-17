@@ -1,3 +1,11 @@
+## 目录
+- [1.新闻分类案例](#1新闻分类案例)
+  - [1.1介绍](#11介绍)
+  - [1.2数据集下载](#12数据集下载)
+  - [1.3libsvm库安装](#13libsvm库安装)
+  - [1.4实现步骤](#14实现步骤)
+  - [1.5代码实现](https://github.com/mantchs/machine_learning_model/blob/master/SVM/cnews_demo/svm_classification.ipynb)
+
 ## 1.新闻分类案例
 
 ### 1.1介绍
@@ -12,7 +20,7 @@
 
 训练数据：https://pan.baidu.com/s/1ZkxGIvvGml3vig-9_s1pRw
 
-### 1.2libsvm库安装
+### 1.3libsvm库安装
 
 LIBSVM是台湾大学林智仁(Lin Chih-Jen)教授等开发设计的一个简单、易于使用和快速有效的SVM[模式识别](https://baike.baidu.com/item/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB/295301)与回归的软件包。其它的svm库也有，这里以libsvm为例。
 
@@ -29,7 +37,7 @@ libsvm下载地址：[libsvm-3.23.zip](http://www.csie.ntu.edu.tw/~cjlin/cgi-bin
 #### Windows系统
 
 安装教程：https://www.cnblogs.com/bbn0111/p/8318629.html
-### 1.3实现步骤
+### 1.4实现步骤
 
 1.先对数据集进行分词，本案例用的是**jieba**分词。
 
@@ -38,6 +46,8 @@ libsvm下载地址：[libsvm-3.23.zip](http://www.csie.ntu.edu.tw/~cjlin/cgi-bin
 3.根据词ID生成词向量，这就是最终的训练数据。
 
 4.调用libsvm训练器进行训练。
+
+### [1.5代码实现](https://github.com/mantchs/machine_learning_model/blob/master/SVM/cnews_demo/svm_classification.ipynb)
 
 .
 

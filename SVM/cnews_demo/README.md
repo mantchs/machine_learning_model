@@ -29,6 +29,15 @@ libsvm下载地址：[libsvm-3.23.zip](http://www.csie.ntu.edu.tw/~cjlin/cgi-bin
 #### Windows系统
 
 安装教程：https://www.cnblogs.com/bbn0111/p/8318629.html
+### 1.3实现步骤
+
+1.先对数据集进行分词，本案例用的是**jieba**分词。
+
+2.对分词的结果进行词频统计，分配词ID。
+
+3.根据词ID生成词向量，这就是最终的训练数据。
+
+4.调用libsvm训练器进行训练。
 
 .
 

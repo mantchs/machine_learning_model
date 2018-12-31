@@ -12,6 +12,8 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;[3.2随机森林案例](https://github.com/mantchs/machine_learning_model/blob/master/Decision%20Tree/RandomForestRegression.ipynb)
 ## [4.SVM](https://github.com/mantchs/machine_learning_model/tree/master/SVM)
 ### &nbsp;&nbsp;&nbsp;&nbsp;[4.1新闻分类案例](https://github.com/mantchs/machine_learning_model/tree/master/SVM/cnews_demo)
+## [5.模型集成(多模型融合)]()
+### &nbsp;&nbsp;&nbsp;&nbsp;[5.1信用卡欺诈预测案例](https://github.com/mantchs/machine_learning_model/tree/master/Model%20Ensemble)
 
 
 

@@ -1,4 +1,31 @@
+## 目录
+- [1.信用卡欺诈预测案例](#1信用卡欺诈预测案例)
+- [2.模型集成](#2模型集成model-ensemble)
+  - [2.1Bagging](#21bagging)
+  - [2.2Stacking](#22stacking)
+  - [2.3Adaboost](#23adaboost)
+  - [2.4图解模型集成](#24图解模型集成)
+- [3.案例总流程](#3案例总流程)
+- [4.初始化工作](#4初始化工作)
+- [5.数据下采样](#5数据下采样)
+- [6.模型训练](#6模型训练)
+  - [6.1KNN](#61knn)
+  - [6.2SVM-RBF](#62--svm-rbf)
+  - [6.3SVM-POLY](#63-svm-poly)
+  - [6.4Logistic Regression](#64-logistic-regression)
+  - [6.5Random Forest](#65-random-forest)
+  - [6.6决策边界](#66决策边界)
+  - [6.7模型建模](#67-模型建模)
+- [7.结果](#7结果)
+  - [7.1预测](#71预测)
+  - [7.2模型评估](#72模型评估)
+- [8.完整代码]()
+  - [数据集下载](https://v2.fangcloud.com/share/a63342d8bd816c43f281dab455)
+  - [代码](https://github.com/mantchs/machine_learning_model/blob/master/Model%20Ensemble/kaggle_credict.ipynb)
+
 ## 1.信用卡欺诈预测案例
+
+这是一道kaggle上的题目。
 
 我们都知道信用卡，能够透支一大笔钱来供自己消费，正因为这一点，不法分子就利用信用卡进一特性来实施欺诈行为。银行为了能够检测出这一欺诈行为，通过机器学习模型进行智能识别，提前冻结该账户，避免造成银行的损失。那么我们应该通过什么方式来提高这种识别精度呢！这就是今天要说的主题，多模型融合预测。使用到的模型算法有：**KNN、SVM、Logistic Regression(LR)、Random Forest**。
 
@@ -8,7 +35,7 @@
 
 **数据集下载：**https://v2.fangcloud.com/share/a63342d8bd816c43f281dab455
 
-**GitHub完整代码：**
+[GitHub完整代码](https://github.com/mantchs/machine_learning_model/blob/master/Model%20Ensemble/kaggle_credict.ipynb)
 
 ## 2.模型集成(model ensemble)
 
@@ -362,7 +389,7 @@ std_auc = np.std(auc_list)
 
 **数据集下载：**https://v2.fangcloud.com/share/a63342d8bd816c43f281dab455
 
-**GitHub完整代码：**
+[GitHub完整代码](https://github.com/mantchs/machine_learning_model/blob/master/Model%20Ensemble/kaggle_credict.ipynb)
 
 .
 

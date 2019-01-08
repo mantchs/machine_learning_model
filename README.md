@@ -14,6 +14,7 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;[4.1新闻分类案例](https://github.com/mantchs/machine_learning_model/tree/master/SVM/cnews_demo)
 ## [5.模型集成(多模型融合)](https://github.com/mantchs/machine_learning_model/tree/master/Model%20Ensemble)
 ### &nbsp;&nbsp;&nbsp;&nbsp;[5.1信用卡欺诈预测案例](https://github.com/mantchs/machine_learning_model/tree/master/Model%20Ensemble)
+## [6.L1、L2正则化，ElasticNetCV](https://github.com/mantchs/machine_learning_model/tree/master/Regularization)
 
 
 

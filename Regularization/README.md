@@ -5,7 +5,7 @@
   - [1.3对应图形](#13对应图形)
   - [1.4使用场景](#14使用场景)
   - [1.5代码实现](https://github.com/mantchs/machine_learning_model/blob/master/Regularization)
-- [#2.L1正则化lasso回归](#2l1正则化lasso回归)
+- [2.L1正则化lasso回归](#2l1正则化lasso回归)
   - [2.1公式](#21公式)
   - [2.2对应图形](#22对应图形)
   - [2.3使用场景](#23使用场景)

@@ -15,7 +15,8 @@
 ## [5.模型集成(多模型融合)](https://github.com/mantchs/machine_learning_model/tree/master/Model%20Ensemble)
 ### &nbsp;&nbsp;&nbsp;&nbsp;[5.1信用卡欺诈预测案例](https://github.com/mantchs/machine_learning_model/tree/master/Model%20Ensemble)
 ## [6.L1、L2正则化，ElasticNetCV](https://github.com/mantchs/machine_learning_model/tree/master/Regularization)
-
+## [7.NLP从词袋到Word2Vec](https://github.com/mantchs/machine_learning_model/tree/master/Word2Vec)
+### &nbsp;&nbsp;&nbsp;&nbsp;[7.1Word2Vec训练维基百科文章](https://github.com/mantchs/machine_learning_model/blob/master/Word2Vec/word2vec.ipynb)
 
 
 </br>

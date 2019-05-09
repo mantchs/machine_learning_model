@@ -139,7 +139,7 @@ NNLM (Neural Network Language model)，神经网络语言模型是03年提出来
 
 NNLM说的是定义一个前向窗口大小，其实和上面提到的窗口是一个意思。把这个窗口中最后一个词当做y，把之前的词当做输入x，通俗来说就是预测这个窗口中最后一个词出现概率的模型。
 
-![image](https://wx3.sinaimg.cn/large/00630Defly1g2t1ckbm43j30eq065q2y.jpg)
+![image](https://wx3.sinaimg.cn/large/00630Defly1g2vb5thw9rj30eq065dg4.jpg)
 
 以下是NNLM的网络结构图：
 
